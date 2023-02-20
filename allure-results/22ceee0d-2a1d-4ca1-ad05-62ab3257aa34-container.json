@@ -1,0 +1,1 @@
+{"uuid":"22ceee0d-2a1d-4ca1-ad05-62ab3257aa34","name":"training","children":["6b93a10e-2b0b-4b08-9fa8-a708e02b8c81"],"befores":[],"afters":[{"name":"clearCookiesAndLocalStorage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1676271262585,"stop":1676271262712}],"links":[],"start":1676271250629,"stop":1676271262712}
