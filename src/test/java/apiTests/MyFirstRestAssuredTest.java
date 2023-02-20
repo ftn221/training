@@ -20,7 +20,5 @@ public class MyFirstRestAssuredTest {
                 .get(url + "api/users?page=2")
                 .then().log().all()
                 .extract().body().jsonPath().getList("data", UserData.class);
-
-        System.out.println("hello");
     }
 }
